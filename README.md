@@ -24,3 +24,7 @@ Node.js https://www.youtube.com/watch?v=ETeeSYMGZn0
 36mn01 Node code
 
 36mn14 sum up ML APIs, demo codes
+
+36mn42 references https://github.com/sararob/ml-talk-demos 
+
+https://github.com/sararob/video-intelligence-demo
