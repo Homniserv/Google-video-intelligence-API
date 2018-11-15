@@ -17,6 +17,12 @@ version: 'v1'
 key : apiKey
 },function(serviceErr, videoIntelligence){
 const reqBody={
-"auth":
-
+"auth": 'video_api_key',
+ "name" : operationId
+}
+videoOntelligence.operations.get(reqBody,function(opErr,opResp){
+  //annotations are in opkesp[`response`][`annotationReesults`]
 ));
+});
+});
+});
